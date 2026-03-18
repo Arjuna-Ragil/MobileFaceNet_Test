@@ -7,3 +7,5 @@ __pycache__/
 data/
 .ipynb_checkpoints
 trained_models
+venv
+dataset
